@@ -3,7 +3,7 @@ file = open("death.txt", "w")
 
 # Write some data to the file
 file.write("I'm sorry, " +"you have not survived :(\n")
-file.write("Thanks for playing my game.")
+file.write("Thanks for playing my ame.")
 
 # Close the file
 file.close()
